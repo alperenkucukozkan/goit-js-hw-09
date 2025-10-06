@@ -6,4 +6,7 @@ export default defineConfig({
     open: false,
     port: 5173,
   },
+  define: {
+    'global': {},
+  }
 });
